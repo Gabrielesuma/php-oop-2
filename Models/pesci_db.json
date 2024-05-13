@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Cliffi Tropic",
+        "weight":"200gr",
+        "price": "10,72$",
+        "img": "https://www.ciamanimali.com/11432-home_default/cliffi-tropic-200-gr-1000-ml.webp",
+        "category": "Fishfood"
+    },
+    {
+        
+        "id": 2,
+        "name": "Cliffi Tropic",
+        "weight":"20gr",
+        "price": "2,96$",
+        "img": "https://www.ciamanimali.com/11433-home_default/cliffi-tropic-20-gr-100-ml.webp",
+        "category": "Fishfood"
+    },
+    {
+        "id": 3,
+        "name": "Tetramin Weekend",
+        "weight":"18gr",
+        "price": "6$",
+        "img": "https://www.ciamanimali.com/2975-home_default/tetramin-weekend-18-gr.webp",
+        "category": "Fishfood"
+    },
+    {
+        "id": 4,
+        "name": "Tetracichild Sticks",
+        "weight":"250gr",
+        "price": "21,20$",
+        "img": "https://www.ciamanimali.com/2974-home_default/tetracichlid-sticks-1-lt.webp",
+        "category": "Fishfood"
+    },
+    {
+        "id": 5,
+        "name": "Tetracichild stcks m",
+        "weight":"500gr",
+        "price": "12,96$",
+        "img": "https://www.ciamanimali.com/2973-home_default/tetracichlid-sticks-500-ml.webp",
+        "category": "Fishfood"
+    },
+    {
+        "id": 6,
+        "name": "Tetracichild stcks Fiocchi grandi Xl",
+        "weight":"300gr",
+        "price": "13,68$",
+        "img": "https://www.ciamanimali.com/2972-home_default/tetracichlid-fiocchi-grandi-500-ml.webp",
+        "category": "Fishfood"
+    }
+    
+    
+]

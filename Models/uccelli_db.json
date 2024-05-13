@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Cliffi Maior Morbido Super",
+        "weight":"1kg",
+        "price": "7,68$",
+        "img": "https://www.ciamanimali.com/13724-home_default/cliffi-maior-morbido-super-1-kg.webp",
+        "category": "Birdfood"
+    },
+    {
+        
+        "id": 2,
+        "name": "Cliffi Sticks Pappagallini Esotici Con Semi Della Salute",
+        "weight":"60gr",
+        "price": "2,64$",
+        "img": "https://www.ciamanimali.com/11375-home_default/cliffi-sticks-pappagallini-esotici-con-semi-della-salute-vitality-60-gr.webp",
+        "category": "Birdfood"
+    },
+    {
+        "id": 3,
+        "name": "Cliffi Maior Nutirent Special",
+        "weight":"100gr",
+        "price": "3,60$",
+        "img": "https://www.ciamanimali.com/11854-home_default/cliffi-maior-nutrient-special-100-gr.webp",
+        "category": "Birdfood"
+    },
+    {
+        "id": 4,
+        "name": "Cliffi Maior Nutrient Special",
+        "weight":"250gr",
+        "price": "5,44$",
+        "img": "https://www.ciamanimali.com/11853-home_default/cliffi-maior-nutrient-special-250-gr.webp",
+        "category": "Birdfood"
+    },
+    {
+        "id": 5,
+        "name": "Cliffi New Superior Mix Pappagallini Con Biscotto",
+        "weight":"1kg",
+        "price": "3,68$",
+        "img": "https://www.ciamanimali.com/13721-home_default/cliffi-new-superior-mix-pappagallini-1-kg-con-biscotto.webp",
+        "category": "Birdfood"
+    },
+    {
+        "id": 6,
+        "name": "Cliffi Maior Muss New",
+        "weight":"5kg",
+        "price": "30,30$",
+        "img": "https://www.ciamanimali.com/11866-home_default/cliffi-maior-muss-new-5-kg.webp",
+        "category": "Birdfood"
+    }
+    
+    
+]

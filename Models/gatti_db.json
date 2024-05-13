@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Natural Code Vellutata 6 Pollo",
+        "weight":"85gr",
+        "price": "0,99$",
+        "img": "https://www.ciamanimali.com/21917-home_default/natural-code-vellutata-6-pollo-85-gr.webp",
+        "category": "Catfood"
+    },
+    {
+        
+        "id": 2,
+        "name": "Natural Code Vellutata 5 Tonno e Prosciutto",
+        "weight":"85gr",
+        "price": "0,99$",
+        "img": "https://www.ciamanimali.com/21916-home_default/natural-code-vellutata-5-tonno-e-prosciutto-85-gr.webp",
+        "category": "Catfood"
+    },
+    {
+        "id": 3,
+        "name": "Natural Code Vellutata 5 Tonno e Gamberetti",
+        "weight":"85gr",
+        "price": "0,99$",
+        "img": "https://www.ciamanimali.com/21915-home_default/natural-code-vellutata-4-tonno-e-gamberetti-85-gr.webp",
+        "category": "Catfood"
+    },
+    {
+        "id": 4,
+        "name": "Natural Code Vellutata 5 Tonno e Pollo",
+        "weight":"85gr",
+        "price": "0,99$",
+        "img": "https://www.ciamanimali.com/21914-home_default/natural-code-vellutata-3-tonno-e-pollo-85-gr.webp",
+        "category": "Catfood"
+    },
+    {
+        "id": 5,
+        "name": "Natural Code Vellutata 5 Tonno e Aragosta",
+        "weight":"85gr",
+        "price": "0,99$",
+        "img": "https://www.ciamanimali.com/21913-home_default/natural-code-vellutata-2-tonno-e-aragosta-85-gr.webp",
+        "category": "Catfood"
+    },
+    {
+        "id": 6,
+        "name": "Natural Code Vellutata 1 Tonno",
+        "weight":"85gr",
+        "price": "0,99$",
+        "img": "https://www.ciamanimali.com/21912-home_default/natural-code-vellutata-1-tonno-85-gr.webp",
+        "category": "Catfood"
+    }
+    
+    
+]

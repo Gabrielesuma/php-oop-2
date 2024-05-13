@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Forza 10 cane Maxi Adult Maintenance con cervo e patate",
+        "weight":"12kg",
+        "price": "46.16$",
+        "img": "https://www.ciamanimali.com/22247-home_default/forza-10-cane-maxi-adult-maintenance-con-cervo-e-patate-12-kg.webp",
+        "category": "Dogfood"
+    },
+   
+    {
+        
+        "id": 2,
+        "name": "Forza 10 cane mono diet adult mini toy sensitive skin pesce",
+        "weight":"1,5kg",
+        "price": "15,92$",
+        "img": "https://www.ciamanimali.com/22242-home_default/forza-10-cane-mono-diet-adult-mini-toy-sensitive-skin-pesce-15-kg.webp",
+        "category": "Dogfood"
+    },
+    {
+        "id": 3,
+        "name": "Forza 10 cane mono diet adult mini toy sensitive digestion pesce",
+        "weight":"1,5kg",
+        "price": "15,92$",
+        "img": "https://www.ciamanimali.com/22237-home_default/forza-10-cane-mono-diet-adult-mini-toy-sensitive-digestion-pesce-15-kg.webp",
+        "category": "Dogfood"
+    },
+    {
+        "id": 4,
+        "name": "Schesir cane Small Adult Mantenimento con prosciutto 2 kg",
+        "weight":"2kg",
+        "price": "10,52$",
+        "img": "https://www.ciamanimali.com/22230-home_default/schesir-cane-small-adult-mantenimento-con-prosciutto-2-kg.webp",
+        "category": "Dogfood"
+    },
+    {
+        "id": 5,
+        "name": "Schesir cane Small Adult Mantenimento ricco in Agnello 2 kg",
+        "weight":"2kg",
+        "price": "10,52$",
+        "img": "https://www.ciamanimali.com/22229-home_default/schesir-cane-small-adult-mantenimento-ricco-in-agnello-2-kg.webp",
+        "category": "Dogfood"
+    },
+    {
+        "id": 6,
+        "name": "Advance Activedefense Cane Sensitive Care Agnello",
+        "weight":"3kg",
+        "price": "19,99$",
+        "img": "https://www.ciamanimali.com/22109-home_default/advance-activedefense-cane-sensitive-care-agnello-3-kg.webp",
+        "category": "Dogfood"
+    },
+        {
+            "id": 7,
+            "name": "Cuccia per Cani Confortevole in Tessuto",
+            "weight":"2kg",
+            "size": "Medium",
+            "price": "35.99$",
+            "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTB6LiKP6GK7Jq-K8KdRBMJsQRQ4rAerYdLuZr2Gz9EImmoyFERihSIRMUs7oIQx-0W1fzkbe7EXNC43VvB3U7mnSHBCbWJRcTk0GBF8B0C&usqp=CAc",
+            "category": "Dogaccessory"
+        },
+        {
+            "id": 8,
+            "name": "Lettiera per Cani con Fondo Anti-Sporco",
+            "weight":"2kg",
+            "size": "Large",
+            "price": "25.99$",
+            "img": "https://example.com/lettiera.jpg",
+            "category": "Dogaccessory"
+        },
+        {
+            "id": 9,
+            "name": "Giostra per Cani con Palline e Sonagli",
+            "weight":"2kg",
+            "size": "Small",
+            "price": "12.99$",
+            "img": "https://example.com/giostra.jpg",
+            "category": "Dogtoy"
+        },
+        {
+            "id": 10,
+            "name": "Ciotola per Cani in Acciaio Inox",
+            "weight":"2kg",
+            "size": "Large",
+            "price": "8.99$",
+            "img": "https://example.com/ciotola.jpg",
+            "category": "Dogaccessory"
+        },
+        {
+            "id": 11,
+            "name": "Collare in Pelle per Cani con Fibbia Regolabile",
+            "weight":"2kg",
+            "size": "Medium",
+            "price": "19.99$",
+            "img": "https://example.com/collare.jpg",
+            "category": "Dogaccessory"
+        },
+        {
+            "id": 12,
+            "name": "Giocattolo Tiragraffi per Cani con Sfera Rimovibile",
+            "weight":"2kg",
+            "size": "Large",
+            "price": "14.99$",
+            "img": "https://example.com/tiragraffi.jpg",
+            "category": "Dogtoy"
+        }
+    
+]
